@@ -1,5 +1,5 @@
 # 1D Life In 6502 Assembly for the BBC Micro
-An implementation of Life in 1D in 6502 Assembly for the BBC Micro, based on BASIC from Nakazoto (thanks Nakazoto for the video and BASIC, it has reignited by retro programming enthusiasm) - see https://github.com/Nakazoto/CenturionComputer/blob/main/Software/New%20Software/1DLIFE.BAS
+An implementation of Life in 1D in 6502 Assembly for the BBC Micro, based on BASIC from Nakazoto (thanks Nakazoto for the video and BASIC, it has reignited my retro programming enthusiasm) - see https://github.com/Nakazoto/CenturionComputer/blob/main/Software/New%20Software/1DLIFE.BAS
 
 This code was written to use the BBC BASIC built in assembler so you load the code in and type RUN. This assembles the machine code and then runs it. 
 
