@@ -23,7 +23,7 @@
   220    LDX width%           ; Set X to width% - the number of characters wide   
   230 .initialiseData
   240    JSR get_random     ; get a random number
-  250    CMP #127         ;if less than 127 (half of 255) store a 1, else store a 0
+  250    CMP #128         ;if less than 127 (half of 255) store a 1, else store a 0
   260    BCC willBeZero     ;less than 127 so will be a zero
   270    LDA #42
   280    JSR OSWRCH         ;print *
